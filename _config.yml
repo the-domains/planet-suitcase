@@ -1,0 +1,28 @@
+name: Planet Suitcase
+favicon: null
+layout_spectrum: 0.5055693727917969
+typography_spectrum: 0.19616361777298152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.75483746570535
+  lightness: 0.7657197245862335
+  saturation: 0.07711455971002579
+  rhythmicContrast: 0.3716582441702485
+purpose: []
