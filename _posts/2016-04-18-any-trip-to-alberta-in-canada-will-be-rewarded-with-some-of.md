@@ -5,37 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: >-
-  Any trip to Alberta in
-
-  Canada will be rewarded with some of the most stunning scenery you’re ever
-
-  likely to see. Craggy peaks jutting into clear blue skies, mountain lakes,
-
-  sweeping valleys, cascading waterfalls and impressive glaciers snaking through
-
-  the majestic landscape.
-datePublished: '2016-04-18T16:16:01.557Z'
-dateModified: '2016-04-18T16:15:30.835Z'
+description: 'Any trip to Alberta in Canada will be rewarded with some of the most stunning scenery you’re ever likely to see. Craggy peaks jutting into clear blue skies, mountain lakes, sweeping valleys, cascading waterfalls and impressive glaciers snaking through the majestic landscape.'
+datePublished: '2016-04-18T16:31:55.083Z'
+dateModified: '2016-04-18T16:31:51.581Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-any-trip-to-alberta-in-canada-will-be-rewarded-with-some-of.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-any-trip-to-alberta-in-canada-will-be-rewarded-with-some-of.md
-published: true
 url: any-trip-to-alberta-in-canada-will-be-rewarded-with-some-of/index.html
 _type: Article
 
 ---
-Any trip to Alberta in
-Canada will be rewarded with some of the most stunning scenery you're ever
-likely to see. Craggy peaks jutting into clear blue skies, mountain lakes,
-sweeping valleys, cascading waterfalls and impressive glaciers snaking through
-the majestic landscape.
+Any trip to Alberta in Canada will be rewarded with some of the most stunning scenery you're ever likely to see. Craggy peaks jutting into clear blue skies, mountain lakes, sweeping valleys, cascading waterfalls and impressive glaciers snaking through the majestic landscape.
 
 Combine this with cosmopolitan cities and a warm and welcoming people and you've got one of the best all year round destinations on the planet. With so much on offer it pays to leave it to the experts to tailor-make your itinerary - Trailfinders have been organising holidays here for many years and their local knowledge is second to none.
 
@@ -64,15 +51,10 @@ The slopes in Marmot Basin ski resort offer something for everybody, regardless 
 Both of these holidays include accommodation that has been carefully selected with your comfort and convenience in mind. However, for something slightly different why not take advantage of Canada's excellent network of campsites to travel and sleep in a motorhome? This is an ever popular way to get about and is also a great way to meet fellow travellers as most sites have shared facilities such as BBQ areas and playgrounds.
 
 Trailfinders' 12 day West Canada Wonders Motorhome Holiday starts in Vancouver -- this splendid city is regularly voted as being one of the best places to live in the world -- and it's not hard to see why with its fabulously upbeat vibe and superb location sandwiched between the mighty Pacific Ocean and the Rockies.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a685c7-54dd-41a2-bc1c-2f5f12e1a54f.jpg)
 
 You'll visit the wine regions of Okanagan Valley then cross into Alberta to the glorious sandy beaches of Shuswap Lake and then onto the desolate beauty of Wells Gray Provincial Park. There are over 150 waterfalls in this wild wilderness that is home to a vast array of animals including bears, moose, deer, eagles, hawks, cranes and Canada geese. 
 
 The final week of the holiday takes in Jasper National Park, the Icefields Parkway and all that is has to offer, Lake Louise and Banff before heading to Calgary where you'll be able to drop off your motorhome before heading home. This added self drive flexibility enables you to see so much more of the country in the time available.
 
-Whatever the
-time of year Alberta is one of those destinations that never fails to impress --
-not only are you guaranteed to be blown away by the awe inspiring scenery and
-excellent activities, you're sure to receive a friendly welcome from everybody
-you meet along the way.
+Whatever the time of year Alberta is one of those destinations that never fails to impress -- not only are you guaranteed to be blown away by the awe inspiring scenery and excellent activities, you're sure to receive a friendly welcome from everybody you meet along the way.
