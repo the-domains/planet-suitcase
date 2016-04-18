@@ -2,20 +2,16 @@
     <channel>
         <title><![CDATA[Planet Suitcase]]></title>
         <description><![CDATA[Planet Suitcase]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/planet-suitcase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 16:16:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 16:32:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/planet-suitcase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Any trip to Alberta in
-Canada will be rewarded with some of the most stunning scenery you’re ever
-likely to see. Craggy peaks jutting into clear blue skies, mountain lakes,
-sweeping valleys, cascading waterfalls and impressive glaciers snaking through
-the majestic landscape.</p>]]></description>
-            <link>undefinedany-trip-to-alberta-in-canada-will-be-rewarded-with-some-of/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3a685c7-54dd-41a2-bc1c-2f5f12e1a54f.jpg">]]></description>
+            <link>https://thegrid.ai/planet-suitcase/any-trip-to-alberta-in-canada-will-be-rewarded-with-some-of/index.html</link>
             <guid isPermaLink="false">8a2f0eb8-76d4-4f00-87c1-72bcbc3b3223</guid>
-            <pubDate>Mon, 18 Apr 2016 16:16:01 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 16:31:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
